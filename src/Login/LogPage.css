@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    margin-left: 180px;
+}
+.forrm{
+    padding: 30px;
+}
+.text1{
+    width: 90%;
+    height: 6vh;
+    border-radius: 6px;
+    font-size: 17px;
+    border: 1px solid #dddfe2;
+    background-color: #d8d8df;
+}
+.btn1{
+    width: 93%;
+    height: 8vh;
+}
+.move{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: gray;
+  }
